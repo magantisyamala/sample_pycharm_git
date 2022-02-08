@@ -16,5 +16,5 @@ if __name__ == '__main__':
     print("where do you live")
     print(password)
     print("New Feature")
-    print(fun(2,3))
+    print(fun(5,7))
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
